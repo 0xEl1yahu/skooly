@@ -120,7 +120,7 @@ Each step is one lesson: one main new idea, one visible result, one check. Commi
 | 11 | Load real data through the API | state, effects, and `fetch` | your real notes and books on the page | manual walkthrough |
 | 12 | Add, edit, delete, and error messages | forms and events | full CRUD in the browser, matching the CLI | manual walkthrough plus CLI |
 
-The implementation plan breaks each step into smaller coached tasks with hints.
+The implementation plan breaks each step into smaller coached tasks. Following the "Boilerplate, never the solution" rule in `AGENTS.md`, each task gives the boilerplate (commands, config, empty files, signatures, `TODO` comments), the goal, a hint, and how to check it, never the code that solves it.
 
 ## Out of scope
 
